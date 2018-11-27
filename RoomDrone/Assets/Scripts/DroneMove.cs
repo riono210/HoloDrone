@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -16,6 +17,8 @@ public class DroneMove : MonoBehaviour {
         if(droneRb == null){
             Debug.Log("riなし");
         }
+        
+        //えts
 	}
 	
 	// Update is called once per frame
